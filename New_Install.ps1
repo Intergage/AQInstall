@@ -143,7 +143,7 @@ echo @'
 
 '@
 pause
-echo 'Goodbye Asshat'
+echo 'Goodbye'
 
 Set-ExecutionPolicy Restricted
 
